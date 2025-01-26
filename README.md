@@ -20,7 +20,7 @@
 <h2 align="left">Skills</h2>
 
 ###
-
+/*
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="wordpress logo"  />
 
 </div>
-
+*/
 ###
 
 <h2 align="left">Contact Me</h2>
