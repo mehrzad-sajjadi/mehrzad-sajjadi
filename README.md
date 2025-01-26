@@ -1,30 +1,30 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Alireza
 
 🎓 **About Me**  
-I'm a [Your Profession or Title] with experience in [Skills/Technologies].  
-Passionate about [Your Interests, e.g., open-source, web development, etc.].
+I'm a full-stack developer with experience in Laravel and Vue.js.  
+Passionate about creating modern web applications and teaching others.
 
 🌱 **Currently Learning**  
-- [Skill/Technology 1]  
-- [Skill/Technology 2]  
+- Advanced Vue.js  
+- Tailwind CSS  
 
-👨‍💻 **Projects and Experience**  
-- [Project 1](Link to project): Short description.  
-- [Project 2](Link to project): Short description.  
+👨‍💻 **Projects**  
+- [Task Management System](Link): A system to assign and track tasks with deadlines.  
+- [Shift Management System](Link): Automates employee shift tracking and salary calculations.  
 
-📫 **Get in Touch**  
-- Email: [Your Email]  
-- LinkedIn: [Your LinkedIn Profile]  
-- Twitter: [Your Twitter Handle]  
+📫 **Contact Me**  
+- Email: alirezahadian112@gmail.com  
+- LinkedIn: [Alireza's Profile](https://linkedin.com/in/alireza)  
 
 ---
 
-💻 **Languages and Tools**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+💻 **Skills and Tools**  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alireza&show_icons=true&theme=radical)
 
 ---
 
-⭐️ Check out my repositories and leave a star if you find them helpful!
+⭐️ Feel free to explore my repositories and leave a star if you like them!
