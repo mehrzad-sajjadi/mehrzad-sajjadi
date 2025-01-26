@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Alireza
+# Hey there! 👋 I'm Mehrzad
 
 🎓 **About Me**  
 I'm a full-stack developer with experience in Laravel and Vue.js.  
@@ -6,15 +6,16 @@ Passionate about creating modern web applications and teaching others.
 
 🌱 **Currently Learning**  
 - Advanced Vue.js  
-- Tailwind CSS  
+- ReactJS
+- NextJs 
 
 👨‍💻 **Projects**  
 - [Task Management System](Link): A system to assign and track tasks with deadlines.  
 - [Shift Management System](Link): Automates employee shift tracking and salary calculations.  
 
 📫 **Contact Me**  
-- Email: alirezahadian112@gmail.com  
-- LinkedIn: [Alireza's Profile](https://linkedin.com/in/alireza)  
+- Telegram: @mehrzad_sn  
+- LinkedIn: [Mehrzad's Profile](https://www.linkedin.com/in/seyed-mehrzad-sajjadi/)  
 
 ---
 
