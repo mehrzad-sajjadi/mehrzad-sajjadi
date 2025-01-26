@@ -80,7 +80,7 @@ A Dedicated and Innovative Full-stack Developer</h1>
    <a href="https://wa.me/989376862880" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/seyed-mehrzad-sajjadi/"  target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/seyed-mehrzad-sajjadi/"  target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a>
 </div>
