@@ -1,8 +1,6 @@
-Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Im mehrzad
-===============================================================================================================================
+<h1 align="left">Hey there 👋 ! I'm Mahdi</h1>
 
-A Dedicated and Innovative Full-stack Developer
-##-----------------------------------------------###
+<h2 align="left">A Dedicated and Innovative Full-stack Developer</h2>
 
 <h2 align="left">About Me</h2>
 
