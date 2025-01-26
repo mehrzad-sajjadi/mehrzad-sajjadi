@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">a passionate back-end developer with a love for crafting robust and efficient solutions. With a strong foundation in JavaScript and TypeScript, I specialize in building scalable web applications using Node.js and Express.js. I'm dedicated to continuous learning and improving my skills to deliver high-quality software.</p>
+<p align="left">A creative and passionate software engineer with expertise in **Laravel**, **JavaScript**, **Vue.js**, and **React.js**, dedicated to building dynamic and scalable web applications. By combining deep knowledge of modern frameworks with hands-on experience in designing interactive user interfaces, I craft solutions that deliver high performance and exceptional user experiences. Always eager to embrace new opportunities for learning and innovation, I strive to create software that exceeds expectations.</p>
 
 ###
 
