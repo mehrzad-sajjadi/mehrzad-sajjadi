@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
   </a>
    <a href="https://www.instagram.com/mahdi_najafzadeh_83" target="_blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="whatsapp logo"  />
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/seyed-mehrzad-sajjadi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
