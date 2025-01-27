@@ -25,7 +25,7 @@ A Dedicated and Innovative Full-stack Developer</h1>
 
 ###
 
-<div align="center">
+<div align="left" style="display:flex;">
   
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
