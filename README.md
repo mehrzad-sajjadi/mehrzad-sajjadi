@@ -1,4 +1,5 @@
-<h1 align="left">Hey there 👋 ! I'm Mehrzad 
+<h1 align="left">Hey there 👋 ! <br/>
+  I'm Mehrzad 
 A Dedicated and Innovative Full-stack Developer</h1>
 
 
