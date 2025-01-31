@@ -7,7 +7,7 @@ A Dedicated and Innovative Full-stack Developer</h1>
 
 ###
 
-<p align="left">A creative and passionate software engineer with expertise in **Laravel**, **Vue.js**, and **React.js**, dedicated to building dynamic and scalable web applications. By combining deep knowledge of modern frameworks with hands-on experience in designing interactive user interfaces, I craft solutions that deliver high performance and exceptional user experiences. Always eager to embrace new opportunities for learning and innovation, I strive to create software that exceeds expectations.</p>
+<p align="left">A creative and passionate software engineer with expertise in **Laravel**, **Vue.js**, dedicated to building dynamic and scalable web applications. By combining deep knowledge of modern frameworks with hands-on experience in designing interactive user interfaces, I craft solutions that deliver high performance and exceptional user experiences. Always eager to embrace new opportunities for learning and innovation, I strive to create software that exceeds expectations.</p>
 
 ###
 
